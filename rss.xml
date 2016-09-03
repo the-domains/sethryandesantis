@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Live  Think  Breath]]></title>
+        <description><![CDATA[Live  Think  Breath]]></description>
+        <link>https://thegrid.ai/sethryandesantis/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 01 Sep 2016 03:39:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sethryandesantis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74da1107-d8ee-42bc-bfc8-d93c338a794c.jpg">]]></description>
+            <link>https://thegrid.ai/sethryandesantis/a0aa7e54-2d66-4ba3-8937-210a1e2e5bc6/index.html</link>
+            <guid isPermaLink="false">a0aa7e54-2d66-4ba3-8937-210a1e2e5bc6</guid>
+            <pubDate>Thu, 01 Sep 2016 03:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/43516cd8-794d-4e16-9dcf-62b279cace9b.jpg">]]></description>
+            <link>https://thegrid.ai/sethryandesantis/4dce6b08-7639-42b6-a45e-e33c3f191975/index.html</link>
+            <guid isPermaLink="false">4dce6b08-7639-42b6-a45e-e33c3f191975</guid>
+            <pubDate>Thu, 01 Sep 2016 03:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Windows 10 Anniversary Update breaks most webcams]]></title>
+            <description><![CDATA[<article><h1>Windows 10 Anniversary Update breaks most webcams</h1><p>Glad I’m on enterprise.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a800d4e4898207c9b6008ada418b26dd/croprotate.png?cropheight=380&cropwidth=514&degrees=0&input=http%3A%2F%2Fcdn.arstechnica.net%2Fwp-content%2Fuploads%2F2016%2F08%2Fhd-webcam-pro-c920-gallery-652x380.png&x=60&y=0"></article>]]></description>
+            <link>http://arstechnica.com/information-technology/2016/08/windows-10-anniversary-update-breaks-most-webcams/</link>
+            <guid isPermaLink="false">ac9d7317-f9c1-4fa2-9ca4-7a6793994d22</guid>
+            <pubDate>Wed, 31 Aug 2016 21:53:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Google is working to safeguard Chrome from quantum computers]]></title>
+            <description><![CDATA[<article><h1>Google is working to safeguard Chrome from quantum computers</h1><p>Never too early to start.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c83c6718b676b0fa2db18ccdf130c0521ac4836.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/7/7/12120280/google-chrome-canary-quantum-computing-encryption-new-hope</link>
+            <guid isPermaLink="false">ceccda3f-3780-4b56-a66f-bd85fc8135b9</guid>
+            <pubDate>Wed, 31 Aug 2016 21:45:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs?]]></title>
+            <description><![CDATA[<article><h1>400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs?</h1><p>The rules: Data source: GitHub files stored in BigQuery. Stars matter: We'll only consider the top 400,000 repositories - by number of stars they got on GitHub during the period Jan-May 2016. No small files: Files need to have at least 10 lines that start with a space or a tab.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8651da31c3d218fe1c6e65d9fdfbb6b7/croprotate.png?cropheight=261&cropwidth=800&degrees=0&input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1*LynX1o8a9gPTJ1oWCAj0Aw.png&x=0&y=3"></article>]]></description>
+            <link>https://thegrid.ai/sethryandesantis/400000-github-repositories-1-billion-files-14-terabytes-o/index.html</link>
+            <guid isPermaLink="false">46f84c5e-5c04-461c-940f-415e82cb4f22</guid>
+            <pubDate>Wed, 31 Aug 2016 17:57:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Best of CH 2015: Instagram]]></title>
+            <description><![CDATA[<article><h1>Best of CH 2015: Instagram</h1><p>Four and a half years ago we joined Instagram and have posted over 2,500 images since. More than 99% of the photographs we share, we ourselves have taken, and that's something we're quite proud of.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba4db50512b8a051afebdafd36444e43d96e6161.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/culture/best-of-ch-2015-instagram</link>
+            <guid isPermaLink="false">337e77e0-7dbd-4c11-8711-561626c27a8c</guid>
+            <pubDate>Wed, 31 Aug 2016 17:51:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

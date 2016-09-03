@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-01T04:02:51.622Z'
+datePublished: '2016-09-01T04:05:05.136Z'
+sourcePath: _posts/2016-09-01-something-about-this-snippet-i-wrote-makes-me-happy.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T04:02:47.621Z'
+dateModified: '2016-09-01T04:05:04.676Z'
 title: ''
 publisher: {}
-description: Something about this snippet I wrote makes me happy.
+description: ''
 starred: false
-sourcePath: _posts/2016-09-01-something-about-this-snippet-i-wrote-makes-me-happy.md
 _type: Blurb
 
 ---
@@ -21,5 +21,3 @@ ticker.addEventListener("animationiteration", function DisplayItem(e) {
                 ticker.innerText = newsData[newsData.length - 1].Msg
                 newsData.pop(); 
             }, false);
-
-Something about this snippet I wrote makes me happy.

@@ -1,0 +1,26 @@
+typography_spectrum: 0.8041560454294086
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.9073345127981156
+  lightness: 0.4419573969207704
+  saturation: 0.708481039153412
+  rhythmicContrast: 0.031048359349370003
+layout_spectrum: 0.0755269005894661
+author:
+  name: Seth DeSantis
+  email: sthdsnts@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1def7d03-9630-4d38-a8f2-a58fc8b19969.png
+name: sethryandesantis
+navigation:
+  - name: Resume
+    id: 6448b6bd-7af2-4c65-b689-6a5a2eeb4db6
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b324dccc-0d9f-49f1-9673-12f769da669d.png
+title: Live  Think  Breath

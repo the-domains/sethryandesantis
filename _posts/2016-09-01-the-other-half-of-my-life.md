@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-09-01T04:36:46.571Z'
+datePublished: '2016-09-01T05:08:00.616Z'
+sourcePath: _posts/2016-09-01-the-other-half-of-my-life.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T04:30:48.783Z'
+dateModified: '2016-09-01T05:07:59.989Z'
 title: ''
 publisher: {}
-description: 'The other half of my life '
+description: The other half of my life
 starred: false
-sourcePath: _posts/2016-09-01-the-other-half-of-my-life.md
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37d0ee07-13bb-49c9-83c0-eb60d3f7b724.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b223c184-1499-4e99-bbff-5bd076484d3b.png)
 
 The other half of my life

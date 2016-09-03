@@ -4,7 +4,7 @@
         <description><![CDATA[Live  Think  Breath]]></description>
         <link>https://thegrid.ai/sethryandesantis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 03:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 03:42:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sethryandesantis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>http://www.theverge.com/2016/7/7/12120280/google-chrome-canary-quantum-computing-encryption-new-hope</link>
             <guid isPermaLink="false">ceccda3f-3780-4b56-a66f-bd85fc8135b9</guid>
             <pubDate>Wed, 31 Aug 2016 21:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs?]]></title>
-            <description><![CDATA[<article><h1>400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs?</h1><p>The rules: Data source: GitHub files stored in BigQuery. Stars matter: We'll only consider the top 400,000 repositories - by number of stars they got on GitHub during the period Jan-May 2016. No small files: Files need to have at least 10 lines that start with a space or a tab.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8651da31c3d218fe1c6e65d9fdfbb6b7/croprotate.png?cropheight=261&cropwidth=800&degrees=0&input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F800%2F1*LynX1o8a9gPTJ1oWCAj0Aw.png&x=0&y=3"></article>]]></description>
-            <link>https://thegrid.ai/sethryandesantis/400000-github-repositories-1-billion-files-14-terabytes-o/index.html</link>
-            <guid isPermaLink="false">46f84c5e-5c04-461c-940f-415e82cb4f22</guid>
-            <pubDate>Wed, 31 Aug 2016 17:57:49 GMT</pubDate>
         </item>
     </channel>
 </rss>

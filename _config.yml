@@ -11,6 +11,8 @@ color:
   saturation: 0.8684778679162264
   rhythmicContrast: 0.626470708521083
 layout_spectrum: 0.7799338723998517
+analytics:
+  google: UA-55185963-1
 author:
   name: Seth DeSantis
   email: sthdsnts@gmail.com

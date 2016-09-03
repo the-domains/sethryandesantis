@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T04:08:02.599Z'
+datePublished: '2016-09-01T04:14:38.648Z'
 sourcePath: _posts/2016-09-01-something-about-this-snippet-i-wrote-makes-me-happy.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T04:08:02.137Z'
+dateModified: '2016-09-01T04:14:38.070Z'
 title: ''
 publisher: {}
 description: ''

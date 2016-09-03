@@ -1,4 +1,3 @@
-layout_spectrum: 0.6773798719514161
 typography_spectrum: 0.09083547629415989
 color:
   brandColors:
@@ -11,6 +10,7 @@ color:
   lightness: 0.9420727789402008
   saturation: 0.5708119159098715
   rhythmicContrast: 0.7972632250748575
+layout_spectrum: 0.6773798719514161
 author:
   name: Seth DeSantis
   email: sthdsnts@gmail.com

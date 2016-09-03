@@ -1,4 +1,3 @@
-layout_spectrum: 0.8886925980914384
 typography_spectrum: 0.09781034826301038
 color:
   brandColors:
@@ -11,6 +10,7 @@ color:
   lightness: 0.2594814377371222
   saturation: 0.5500074909068644
   rhythmicContrast: 0.6264096656814218
+layout_spectrum: 0.8886925980914384
 analytics:
   google: UA-55185963-1
 author:
@@ -28,4 +28,4 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b324dccc-0d9f-49f1-9673-12f769da669d.png
-title: Live. Think. Breath. Code.
+title: Live. Think. Code.

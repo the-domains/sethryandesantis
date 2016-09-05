@@ -1,4 +1,3 @@
-layout_spectrum: 0.8886925980914384
 typography_spectrum: 0.39087720424868166
 color:
   brandColors:
@@ -11,6 +10,7 @@ color:
   lightness: 0.8404845488257706
   saturation: 0.8293624189682305
   rhythmicContrast: 0.6093706192914397
+layout_spectrum: 0.8886925980914384
 analytics:
   google: UA-55185963-1
 author:
@@ -22,9 +22,6 @@ name: sethryandesantis
 navigation:
   - name: Resume
     id: 6448b6bd-7af2-4c65-b689-6a5a2eeb4db6
-    type: content
-  - name: Snippets
-    id: 2693ec9f-f3b0-4c6e-9430-4b602bd4489d
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b324dccc-0d9f-49f1-9673-12f769da669d.png

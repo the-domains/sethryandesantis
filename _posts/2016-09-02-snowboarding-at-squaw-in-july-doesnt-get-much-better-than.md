@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-02T02:58:17.325Z'
+datePublished: '2016-09-02T02:59:34.923Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T02:58:06.384Z'
+dateModified: '2016-09-02T02:59:34.272Z'
 title: ''
 publisher: {}
 description: 'Snowboarding at Squaw in July, doesn''t get much better than this!'
-starred: false
 sourcePath: _posts/2016-09-02-snowboarding-at-squaw-in-july-doesnt-get-much-better-than.md
+starred: false
 _type: Blurb
 
 ---

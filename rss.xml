@@ -4,7 +4,7 @@
         <description><![CDATA[Live. Think. Code.]]></description>
         <link>http://sethryandesantis.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 02:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 02:52:02 GMT</lastBuildDate>
         <atom:link href="http://sethryandesantis.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Resume]]></title>
@@ -26,13 +26,6 @@
             <link>http://sethryandesantis.com/4dce6b08-7639-42b6-a45e-e33c3f191975/index.html</link>
             <guid isPermaLink="false">4dce6b08-7639-42b6-a45e-e33c3f191975</guid>
             <pubDate>Thu, 01 Sep 2016 03:43:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Google is working to safeguard Chrome from quantum computers]]></title>
-            <description><![CDATA[<article><h1>Google is working to safeguard Chrome from quantum computers</h1><p>Never too early to start.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4c83c6718b676b0fa2db18ccdf130c0521ac4836.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/7/7/12120280/google-chrome-canary-quantum-computing-encryption-new-hope</link>
-            <guid isPermaLink="false">ceccda3f-3780-4b56-a66f-bd85fc8135b9</guid>
-            <pubDate>Wed, 31 Aug 2016 21:45:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

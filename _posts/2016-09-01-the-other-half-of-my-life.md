@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-01T07:03:51.457Z'
+datePublished: '2016-09-02T03:07:36.751Z'
 sourcePath: _posts/2016-09-01-the-other-half-of-my-life.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T07:03:50.949Z'
+dateModified: '2016-09-02T03:07:36.208Z'
 title: ''
 publisher: {}
 description: The other half of my life

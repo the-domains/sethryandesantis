@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-09-02T02:56:44.802Z'
+datePublished: '2016-09-02T02:56:56.448Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T02:56:39.170Z'
+dateModified: '2016-09-02T02:56:56.165Z'
 title: Goodbye Chapman!
 publisher: {}
-description: ''
-starred: false
+description: 'I enjoyed my time at Chapman, but now it’s time to write some kick ass code.'
 sourcePath: _posts/2016-09-02-goodbye-chapman.md
+starred: false
 _type: Blurb
 
 ---

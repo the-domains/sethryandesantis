@@ -23,6 +23,9 @@ navigation:
   - name: Resume
     id: 6448b6bd-7af2-4c65-b689-6a5a2eeb4db6
     type: content
+  - name: Contact
+    id: bec125e0-ccf4-447e-a8c4-30b45e018ae4
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b324dccc-0d9f-49f1-9673-12f769da669d.png
 title: Live. Think. Code.

@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ' This case was a pain in the ass to put together, a bit obnoxious but if you know me, the more LED’s the better. '
-dateModified: '2017-09-05T10:47:47.209Z'
-datePublished: '2017-09-05T10:47:48.098Z'
+dateModified: '2017-09-05T10:50:48.726Z'
+datePublished: '2017-09-05T10:50:49.168Z'
 title: New Build
 author: []
 publisher: {}
@@ -32,7 +32,8 @@ RGB LED PWM][9][CORSAIR Lighting Node PRO][10][Thermaltake TtMod Sleeves Combs, 
 
 ---
 
-
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8bec428-be77-473e-9c2a-f1a4e93e13e6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20ef026f-6907-458a-b775-3ab274265f58.jpg)
 
 [0]: https://photos.google.com/share/AF1QipNVS0Ya-I6HzJe0Om8P56Kbwgb-sdksPTvNrjQ6PBQScD1KH0kv-V0Lb9nuG3iORQ/photo/AF1QipOfwn9jILgXQUxq-eyMgqB5HGpaxAiAN6IVdRl5?key=dTBFaVBYeVlsczBaeFhhM2RvUHNjdElidzdsTUtB
 [1]: https://www.amazon.com/dp/B01N4IGVSC/ref=cm_sw_r_cp_dp_T1_TfDCzbQ724K07 "Thermaltake Core P5 Tempered Glass Black Edition ATX Open Frame Panoramic Viewing Tt LCS Certified Gaming Computer Case CA-1E7-00M1WN-03"

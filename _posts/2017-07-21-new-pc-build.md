@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ' This case was a pain in the ass to put together, a bit obnoxious but if you know me, the more LED’s the better. '
-dateModified: '2017-09-05T10:46:29.949Z'
-datePublished: '2017-09-05T10:46:30.560Z'
+dateModified: '2017-09-05T10:47:47.209Z'
+datePublished: '2017-09-05T10:47:48.098Z'
 title: New Build
 author: []
 publisher: {}
@@ -23,8 +23,7 @@ This case was a pain in the ass to put together, a bit obnoxious but if you know
 
 [Thermaltake Core P5 Tempered Glass Black Edition ATX Open Frame Panoramic][1][ASUS   
 ROG Maximus IX Hero LGA1151 DDR4 DP HDMI M.2 USB 3.1 ATX Motherboard][2][Intel   
-7th Gen Intel Core Desktop Processor i7-7700K (BX80677I77700K)][3][Samsung 960 PRO   
-Series - 512GB PCIe NVMe - M.2 Internal SSD (MZ-V6P512BW)][4][ASUS GeForce GTX   
+7th Gen Intel Core Desktop Processor i7-7700K (BX80677I77700K)][3][Samsung 960 PRO ][4]2 - [Series - 512GB PCIe NVMe - M.2 Internal SSD (MZ-V6P512BW)][4][ASUS GeForce GTX   
 1080 8GB ROG STRIX OC Edition Graphic Card STRIX-GTX][5][Corsair Vengeance RGB   
 LED 32GB (4x8GB) DDR4 3000 (PC4-24000) C15][6][Thermaltake Toughpower DPS G RGB   
 850W Digital 80+ Gold ][7][Thermaltake WATER 360 AIO Water Cooling System CPU Cooler   

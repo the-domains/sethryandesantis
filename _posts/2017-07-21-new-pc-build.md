@@ -3,18 +3,17 @@ inFeed: true
 description: >-
   This case was a pain in the ass to put together, a bit obnoxious but if you
   know me, the more LED’s the better.
-dateModified: '2017-09-05T11:18:10.356Z'
-datePublished: '2017-09-05T11:18:10.891Z'
+dateModified: '2017-09-10T13:57:26.991Z'
+datePublished: '2017-09-10T13:57:27.817Z'
 title: New Build
 author: []
 publisher: {}
 via: {}
-hasPage: true
+hasPage: false
 sourcePath: _posts/2017-07-21-new-pc-build.md
 starred: false
 datePublishedOriginal: '2017-07-21T11:46:08.292Z'
-url: new-pc-build/index.html
-_type: Article
+_type: Blurb
 
 ---
 # New Build
@@ -25,12 +24,12 @@ This case was a pain in the ass to put together, a bit obnoxious but if you know
 
 1. [Thermaltake Core P5 Tempered Glass Black Edition ATX Open Frame Panoramic][0]
 2. [ASUS ROG Maximus IX Hero LGA1151 DDR4][1]
-3. [7th Gen Intel Core Desktop Processor i7-7700K ][2]
-4. [2 - Samsung 960 PRO Series - 512GB PCIe NVMe - M.2 Internal SSD ][3]
+3. [7th Gen Intel Core Desktop Processor i7-7700K][2]
+4. [2 - Samsung 960 PRO Series - 512GB PCIe NVMe - M.2 Internal SSD][3]
 5. [ASUS GeForce GTX ][4][1080 8GB ROG STRIX OC Edition Graphic Card STRIX-GTX][5]
 6. [Corsair Vengeance RGB ED 32GB (4x8GB) DDR4 3000 (PC4-24000)C15][6]
-7. [Thermaltake Toughpower DPS G RGB 850W Digital 80+ Gold ][7]
-8. [Thermaltake WATER 360 AIO Water Cooling System CPU Cooler ][8]
+7. [Thermaltake Toughpower DPS G RGB 850W Digital 80+ Gold][7]
+8. [Thermaltake WATER 360 AIO Water Cooling System CPU Cooler][8]
 9. [Corsair HD Series, HD120 RGB LED, 120mm High Performance RGB LED PWM][9]
 10. [CORSAIR Lighting Node PRO][10]
 11. [Thermaltake TtMod Sleeves Combs, Green/Black][11]

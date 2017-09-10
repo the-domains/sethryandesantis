@@ -4,9 +4,9 @@
         <description><![CDATA[Live. Think. Code.]]></description>
         <link>http://sethryandesantis.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Sep 2017 19:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2017 13:49:57 GMT</lastBuildDate>
         <atom:link href="http://sethryandesantis.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 Sep 2017 19:50:24 GMT</pubDate>
+        <pubDate>Sun, 10 Sep 2017 13:49:55 GMT</pubDate>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<h1>About</h1>,<h3><strong>This is not my job, it is my passion.</strong></h3>,<ol><li>Currently: Full-Stack ASP.NET C# Developer with <a href="http://vivaphysicians.org/" title="VIVA ">VIVA Physicians</a></li><li>B.S. in Computer Science from Chapman University (2016)</li><li>I have been fortunate to work in several areas of the stack, but I love it all and can’t really decide on what I want to master.</li><li>I do no re-invent, I extend off what is available and innovate. </li><li>At a certain point I stopped wondering how a piece of software was made, to knowing how it was done and how I could make it better.</li><li>Self-motivated, and self-driven to use the skills i have, and continue to develop to bring software that benefits humanity</li><li>I will not develop for you if I don’t believe in the ethics of the software, i.e. the micro transaction drain our users wallet approach is not what I am interested in. </li><li>I also will also not work in an environment where I cannot wear a nice pair or jeans and t-shirt to work.</li></ol>,<p>I also am a big fan of hardware and building computers, snowboarding, dogs, and hockey.<br>Above all I am lucky to have a great girlfriend that puts up with me coding for days straight and having 12 Philips hue RGB lights in my room.</p>]]></description>
@@ -20,13 +20,6 @@
             <link>http://sethryandesantis.com/junior-software-dev-full-stack-aspnet-razor-mvc/index.html</link>
             <guid isPermaLink="false">fa9a4417-4bbd-4060-82ee-2c740baa8e8d</guid>
             <pubDate>Sun, 28 May 2017 10:10:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Side Projects]]></title>
-            <description><![CDATA[<h1>Side Projects</h1>,<p>Check out my Github (https://github.com/sthdsnts) and fork me, <br>I am working on a NodeJS app for my buddies Zaxx and Parker (Currently Private)</p>]]></description>
-            <link>http://sethryandesantis.com/side-projects/index.html</link>
-            <guid isPermaLink="false">1ce1cd5f-e087-414b-9e0f-507dbbdf529e</guid>
-            <pubDate>Sun, 28 May 2017 08:23:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Build]]></title>

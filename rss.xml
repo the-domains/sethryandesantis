@@ -4,9 +4,9 @@
         <description><![CDATA[Live. Think. Code.]]></description>
         <link>http://sethryandesantis.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Sep 2017 13:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Sep 2017 13:50:31 GMT</lastBuildDate>
         <atom:link href="http://sethryandesantis.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 Sep 2017 13:49:55 GMT</pubDate>
+        <pubDate>Sun, 10 Sep 2017 13:50:30 GMT</pubDate>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<h1>About</h1>,<h3><strong>This is not my job, it is my passion.</strong></h3>,<ol><li>Currently: Full-Stack ASP.NET C# Developer with <a href="http://vivaphysicians.org/" title="VIVA ">VIVA Physicians</a></li><li>B.S. in Computer Science from Chapman University (2016)</li><li>I have been fortunate to work in several areas of the stack, but I love it all and can’t really decide on what I want to master.</li><li>I do no re-invent, I extend off what is available and innovate. </li><li>At a certain point I stopped wondering how a piece of software was made, to knowing how it was done and how I could make it better.</li><li>Self-motivated, and self-driven to use the skills i have, and continue to develop to bring software that benefits humanity</li><li>I will not develop for you if I don’t believe in the ethics of the software, i.e. the micro transaction drain our users wallet approach is not what I am interested in. </li><li>I also will also not work in an environment where I cannot wear a nice pair or jeans and t-shirt to work.</li></ol>,<p>I also am a big fan of hardware and building computers, snowboarding, dogs, and hockey.<br>Above all I am lucky to have a great girlfriend that puts up with me coding for days straight and having 12 Philips hue RGB lights in my room.</p>]]></description>
@@ -15,8 +15,8 @@
             <pubDate>Mon, 29 May 2017 04:52:22 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Junior Software Developer: Full-Stack ASP.NET C# MVC /Razor ]]></title>
-            <description><![CDATA[<h1>Junior Software Developer: Full-Stack ASP.NET C# MVC /Razor </h1>,<p>Happy with my current position, and it would take a rather extraordinary offer even to contemplate a switch.</p>,<p>Currently languages I work with daily: C#, JS, SQL </p>]]></description>
+            <title><![CDATA[Software Engineer: Full-Stack ASP.NET C#  MVC (Remote)]]></title>
+            <description><![CDATA[<h1>Software Engineer: Full-Stack ASP.NET C#  MVC (Remote)</h1>,<h2>Employer: VIVA Physicians</h2>,<h3>Daily workflow:</h3>,<ul><li>- Languages: C#, JavaScript, SQL, ([CS]HTML/CSS)</li><li>- Frameworks: ASP.NET Razor/MVC, AngularJS, EntityFramework,</li><li>- Code Management: Team Foundation Server (TFS) w/ Git</li><li>- Site Management: Internet Information Services (IIS)</li></ul>]]></description>
             <link>http://sethryandesantis.com/junior-software-dev-full-stack-aspnet-razor-mvc/index.html</link>
             <guid isPermaLink="false">fa9a4417-4bbd-4060-82ee-2c740baa8e8d</guid>
             <pubDate>Sun, 28 May 2017 10:10:04 GMT</pubDate>

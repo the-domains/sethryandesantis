@@ -4,12 +4,68 @@
         <description><![CDATA[Live. Think. Code.]]></description>
         <link>http://sethryandesantis.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Sep 2017 05:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2017 05:29:50 GMT</lastBuildDate>
         <atom:link href="http://sethryandesantis.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 12 Sep 2017 05:08:27 GMT</pubDate>
+        <pubDate>Tue, 12 Sep 2017 05:29:42 GMT</pubDate>
         <item>
             <title><![CDATA[About]]></title>
-            <description><![CDATA[<h1>About</h1>,<h3><strong>This is not my job, it is my passion.</strong></h3>,<ol><li>Currently: Full-Stack ASP.NET C# Software Engineer</li><li>B.S. in Computer Science from Chapman University (2016)</li><li>Able to pick up languages, technology quickly, and understand it</li><li>I do not re-invent, I extend off what is available and build up</li><li>Self-motivated/driven and confident in my abilities</li><li>I will not develop for a product I don’t support or believe in</li><li>I am not book-smart, I am code-smart, I use the tools available and avoid the grunt work of memorizing and focus more on the overall design and structure</li><li>I learn best by doing, and absorbing knowledge from others</li><li>I bring much more than being a good developer to a team</li></ol>,<p><strong>The non-coding part of me</strong></p>,<p>Huge fan of electronic music, and closely linked to the industry. <br>Love LED’s, especially Philips HUE.<br>Avid hockey ann<br>When i do go outside, its walking the dog or fishing..<br><strong>Above all</strong><br>I am fortunate that I have a supportive, amazing girlfriend who puts up with the ridiculous amount of LED’s I have, and coding for multiple days straight. She has inspired me in a lot of ways to develop software that will improve quality of life for those in need, and to give back more than ever.</p>]]></description>
+            <description><![CDATA[<h1>About</h1>,<pre><code>#_mouseOverEnlarge { 
+&#x9;margin: 5px 0 5px 0;
+&#x9;color:#3399FF; 
+&#x9;border-bottom:1px solid #333;
+&#x9;padding:8px 5px 10px 8px;
+&#x9;}
+&#x9;
+#_mouseOverEnlarge div { 
+&#x9;text-transform: uppercase; 
+&#x9;color: #eee; 
+&#x9;font: 15px Helvetica, Arial, Sans-Serif;
+&#x9;-webkit-transition: all 0.12s ease-out;
+    -moz-transition: all 0.12s ease-out;
+    -o-transition: all 0.12s ease-out;
+&#x9;}
+&#x9;
+#_mouseOverEnlarge div:nth-child(1) 
+&#x9;{ font-size: 55px; 
+&#x9;letter-spacing: 1px;
+&#x9;}
+&#x9;
+#_mouseOverEnlarge div:nth-child(2) { 
+&#x9;font-size: 28px; 
+&#x9;letter-spacing: 0.7px; 
+&#x9;}
+&#x9;
+#_mouseOverEnlarge div:nth-child(3) { 
+&#x9;font-size: 18px; 
+&#x9;letter-spacing: 0.2px; 
+&#x9;}
+&#x9;
+#_mouseOverEnlarge div:nth-child(4) { 
+&#x9;font-size: 14px; 
+&#x9;}
+&#x9;
+#_mouseOverEnlarge div:hover {
+&#x9;-webkit-transform: scale(1.1);
+&#x9;-moz-transform: scale(1.1);
+&#x9;-o-transform: scale(1.1); 
+&#x9;text-shadow: 3px 3px 3px #333; 
+&#x9;}
+&#x9;
+#_mouseOverEnlarge a {
+&#x9;color: #fe4902;
+&#x9;text-decoration: none; 
+&#x9;}
+&#x9;</code></pre>,<pre><code>&lt;script&gt;
+&#x9;  (function(i,s,o,g,r,a,m){i[&apos;GoogleAnalyticsObject&apos;]=r;i[r]=i[r]||function(){
+&#x9;  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+&#x9;  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+&#x9;  })(window,document,&apos;script&apos;,&apos;//www.google-analytics.com/analytics.js&apos;,&apos;ga&apos;);
+
+&#x9;  ga(&apos;create&apos;, &apos;UA-55185963-1&apos;, &apos;auto&apos;);
+&#x9;  ga(&apos;require&apos;, &apos;displayfeatures&apos;);
+&#x9;  ga(&apos;send&apos;, &apos;pageview&apos;);
+&lt;/script&gt;
+</code></pre>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzScksU8hMsVWKz80vLU71L0stcs3LSSxKT1Wy47IBStrZpOXnlSgk5-fkF9kqKRukmpsnAeV8MstSbfTB8vogBdgUp6WkpRkYKNmFZORlY1GrpoBqdFqaqZl5spKdc35KqoaCph6aFjCPCwAv5Dh2" height="271"></iframe>,<p><strong>This is not my job, it is my passion.</strong>Currently: Full-Stack ASP.NET C# Software Engineer<br>B.S. in Computer Science from Chapman University (2016)</p>,<ol><li>I code with an enterprise standards in mind no matter what the project</li></ol>,<ol><li>I’m used to working on large code-bases, and know how to approach them</li><li>I do <strong>not </strong>re-invent, I extend off what is available and build up</li><li>Self-motivated/driven and confident in my abilities</li><li>I am not book-smart, I am code-smart, I use the tools available and avoid the grunt work of memorizing and focus more on the overall design and structure</li><li>I learn best by doing, and absorbing knowledge from others</li><li>I bring much more than being a good developer to a team</li></ol>,<p><strong>The non-coding part of me</strong></p>,<p>Huge fan of electronic music, and closely linked to the industry. <br>Love LED’s, especially Philips HUE.<br>I enjoy fishing, but rarely catch anything.<br>Strong love for animals, especially dogs.<br><strong>Above all</strong><br>I am fortunate that I have a supportive, amazing girlfriend who puts up with the ridiculous amount of LED’s I have, and coding for multiple days straight. She has inspired me in a lot of ways to develop software that will improve quality of life for those in need, and to give back more than ever.</p>]]></description>
             <link>http://sethryandesantis.com/about/index.html</link>
             <guid isPermaLink="false">aa0a8b94-c73b-42cb-846f-555affc51f8f</guid>
             <pubDate>Mon, 29 May 2017 04:52:22 GMT</pubDate>

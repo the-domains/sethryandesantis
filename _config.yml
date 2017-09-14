@@ -25,9 +25,6 @@ navigation:
   - name: Github
     id: 1ce1cd5f-e087-414b-9e0f-507dbbdf529e
     type: content
-  - name: Current Development
-    id: fa9a4417-4bbd-4060-82ee-2c740baa8e8d
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e610d5a-448f-42fe-8ab8-7b7e2afa1d24.png
 title: Live. Think. Code.

@@ -59,7 +59,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: this.code( )
+description: ''
 purpose:
   - type: contact
     url: 'mailto:sthdsnts@gmail.com'

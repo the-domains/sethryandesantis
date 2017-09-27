@@ -33,7 +33,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e610d5a-448f-42fe-8ab8-7b7e2afa1d24.png
-title: Live. Think. Code.
+title: _ThinkInCode( )
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image

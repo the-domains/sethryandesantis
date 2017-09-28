@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Creating some awesome stuff, the potential is huge.'
-dateModified: '2017-09-28T17:41:18.522Z'
-datePublished: '2017-09-28T17:41:31.356Z'
+dateModified: '2017-09-28T17:42:21.079Z'
+datePublished: '2017-09-28T17:42:21.273Z'
 title: 'Startup: Begin'
 author: []
 publisher: {}

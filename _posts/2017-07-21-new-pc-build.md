@@ -4,8 +4,8 @@ description: >-
   This case was a pain in the ass to put together, a bit obnoxious but if you
   know me, the more LED’s the better. Although I think my room has enough LED’s
   at this point.
-dateModified: '2017-09-14T09:09:08.842Z'
-datePublished: '2017-09-14T09:09:09.390Z'
+dateModified: '2017-09-28T17:42:21.079Z'
+datePublished: '2017-09-28T17:42:21.259Z'
 title: New Build
 author: []
 publisher: {}

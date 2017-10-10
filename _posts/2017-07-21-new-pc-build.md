@@ -4,16 +4,16 @@ description: >-
   This case was a pain in the ass to put together, a bit obnoxious but if you
   know me, the more LED’s the better. Although I think my room has enough LED’s
   at this point.
-dateModified: '2017-10-10T04:22:47.555Z'
-datePublished: '2017-10-10T04:23:28.393Z'
+dateModified: '2017-10-10T05:10:59.427Z'
+datePublished: '2017-10-10T05:10:59.731Z'
 title: New Build
 author: []
 publisher: {}
 via: {}
 hasPage: true
 sourcePath: _posts/2017-07-21-new-pc-build.md
+datePublishedOriginal: '2017-10-10T05:10:59.731Z'
 starred: false
-datePublishedOriginal: '2017-10-10T04:23:28.393Z'
 url: new-build/index.html
 _type: Article
 

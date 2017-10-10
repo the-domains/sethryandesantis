@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: The road map so far is looking great.
-dateModified: '2017-10-10T04:20:49.538Z'
-datePublished: '2017-10-10T04:20:50.094Z'
+dateModified: '2017-10-10T04:22:14.116Z'
+datePublished: '2017-10-10T04:22:14.791Z'
 title: Stay Challenged.
 author:
   - {}

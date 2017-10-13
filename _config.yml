@@ -1,6 +1,12 @@
+name: sethryandesantis
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e610d5a-448f-42fe-8ab8-7b7e2afa1d24.png
+layout_spectrum: 0.1368459890870433
 typography_spectrum: 0.6360957083178888
-content_rating:
-  adult: false
+analytics:
+  facebook: ''
+  google: UA-55185963-1
+  twitter: ''
 color:
   brandColors:
     - '#2A2B2A'
@@ -12,15 +18,20 @@ color:
   lightness: 0.40692226768858586
   saturation: 0.6731943619620092
   rhythmicContrast: 0.9585899758816576
-github: true
-layout_spectrum: 0.1368459890870433
-analytics:
-  google: UA-55185963-1
+purpose:
+  - type: contact
+    label: Contact
+    url: 'mailto:sthdsnts@gmail.com'
+  - type: external
+    label: LinkedIn
+    url: 'https://www.linkedin.com/in/sethrdesantis/'
+title: _ThinkInCode( )
+description: ''
 author:
   name: Seth DeSantis
   email: sthdsnts@gmail.com
-logo: null
-name: sethryandesantis
+content_rating:
+  adult: false
 navigation:
   - name: About
     id: aa0a8b94-c73b-42cb-846f-555affc51f8f
@@ -31,9 +42,6 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/sethrdesantis/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e610d5a-448f-42fe-8ab8-7b7e2afa1d24.png
-title: _ThinkInCode( )
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -43,27 +51,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/25d9b255-ae1f-4604-ab90-59eaae860af8.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      app_links: []
+      '@context': 'http://schema.org'
+      keywords: []
       publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
       description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ''
-purpose:
-  - type: contact
-    url: 'mailto:sthdsnts@gmail.com'
-    label: Contact
-  - type: external
-    url: 'https://www.linkedin.com/in/sethrdesantis/'
-    label: LinkedIn
+github: true

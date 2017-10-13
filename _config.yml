@@ -65,3 +65,5 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3c6625c-d26f-4220-b059-7c3acdf3146f.png

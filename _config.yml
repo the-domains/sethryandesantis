@@ -1,14 +1,15 @@
 name: ' '
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e610d5a-448f-42fe-8ab8-7b7e2afa1d24.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3c6625c-d26f-4220-b059-7c3acdf3146f.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/42653820-daa6-4631-90f9-f48533914c84.jpg
 layout_spectrum: 0.1368459890870433
 typography_spectrum: 0.6360957083178888
 analytics:
   facebook: ''
   google: UA-55185963-1
   twitter: ''
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#2A2B2A'

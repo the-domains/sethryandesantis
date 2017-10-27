@@ -1,6 +1,8 @@
 name: ' '
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e610d5a-448f-42fe-8ab8-7b7e2afa1d24.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3c6625c-d26f-4220-b059-7c3acdf3146f.png
 layout_spectrum: 0.1368459890870433
 typography_spectrum: 0.6360957083178888
 analytics:
@@ -29,8 +31,8 @@ title: Seth Ryan DeSantis
 description: ''
 author:
   name: Seth DeSantis
-  email: sthdsnts@gmail.com
   url: 'http://www.sethryandesantis.com'
+  email: sthdsnts@gmail.com
 content_rating:
   adult: false
 navigation:
@@ -66,5 +68,3 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 github: true
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3c6625c-d26f-4220-b059-7c3acdf3146f.png

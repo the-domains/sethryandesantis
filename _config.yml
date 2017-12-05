@@ -29,7 +29,7 @@ purpose:
     label: LinkedIn
     url: 'https://www.linkedin.com/in/sethrdesantis/'
 title: Seth Ryan DeSantis
-description: ''
+description: Live. Think. Code.
 author:
   name: Seth DeSantis
   url: 'http://www.sethryandesantis.com'
@@ -85,7 +85,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject

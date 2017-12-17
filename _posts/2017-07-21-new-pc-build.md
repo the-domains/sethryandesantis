@@ -4,8 +4,8 @@ description: >-
   This case was a pain in the ass to put together, a bit obnoxious but if you
   know me, the more LED’s the better. Although I think my room has enough LED’s
   at this point.
-dateModified: '2017-11-24T21:59:35.279Z'
-datePublished: '2017-11-24T21:59:35.457Z'
+dateModified: '2017-12-17T23:09:28.757Z'
+datePublished: '2017-12-17T23:09:29.138Z'
 title: New Build
 author: []
 publisher: {}
@@ -41,9 +41,9 @@ This case was a pain in the ass to put together, a bit obnoxious but if you know
 Key takeaway:
 
 * Don't buy giant glass case with no bottom or back panel
-* Thermaltake sells WC'd heatsink for CPU that has cords do not fit properly, not offer a longer cabled version. Fans show be against side panel.
-* The case structure is cheap, taking the side panel off always is a pain. 
-* Stick to non thermal-take products, PSU driver is horrid. 
+* Thermaltake sells WC'd heatsink for CPU, for their own case yet has cords that do not fit properly, not offer a longer cabled version. Fans show be against side panel
+* The case structure is cheap, taking the side panel off always is a pain
+* Stick to Corsair 
 
 [0]: https://www.amazon.com/dp/B01N4IGVSC/ref=cm_sw_r_cp_dp_T1_TfDCzbQ724K07 "Thermaltake Core P5 Tempered Glass Black Edition ATX Open Frame Panoramic Viewing Tt LCS Certified Gaming Computer Case CA-1E7-00M1WN-03"
 [1]: https://www.amazon.com/dp/B01NBHXSP6/ref=cm_sw_r_cp_dp_T1_hhDCzbD4QP628 "ASUS ROG Maximus IX Hero LGA1151 DDR4 DP HDMI M.2 USB 3.1 ATX Motherboard"

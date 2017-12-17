@@ -39,9 +39,6 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: About
-    id: aa0a8b94-c73b-42cb-846f-555affc51f8f
-    type: content
   - name: Github
     id: 1ce1cd5f-e087-414b-9e0f-507dbbdf529e
     type: content

@@ -39,9 +39,6 @@ author:
 content_rating:
   adult: false
 navigation:
-  - name: Github
-    id: 1ce1cd5f-e087-414b-9e0f-507dbbdf529e
-    type: content
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/sethrdesantis/'
     type: external

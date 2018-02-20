@@ -25,7 +25,7 @@ color:
   rhythmicContrast: 0.9585899758816576
 purpose:
   - type: contact
-    label: Contact
+    label: Contact me
     url: 'mailto:sthdsnts@gmail.com'
   - type: external
     label: LinkedIn

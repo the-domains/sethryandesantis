@@ -1,8 +1,8 @@
 name: ' '
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc129ece-9595-4ecd-9257-f0ca267ae12c.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5afab6f1-e94f-47ad-8594-03f45c6954d1.png
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9d6fc6c-2586-4ba2-935a-9ffebe50dd9a.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f838487b-55f9-4527-8d97-8e692f4aa43e.png
 layout_spectrum: 0.1368459890870433
 typography_spectrum: 0.6360957083178888
 analytics:
@@ -60,7 +60,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
